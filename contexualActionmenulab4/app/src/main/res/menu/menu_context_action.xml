@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/bookmark_foreground"
+        android:title="bookmark"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/paint"
+        android:icon="@drawable/panit_foreground"
+        android:title="paint"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/pin"
+        android:icon="@drawable/pin_foreground"
+        android:title="pin"
+        app:showAsAction="always" />
+</menu>
